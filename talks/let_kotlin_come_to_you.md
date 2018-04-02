@@ -7,6 +7,7 @@
 ## Resources
 
 - [Learn Kotlin basics](https://try.kotlinlang.org)
+- [GOTO 2017 • Kotlin - Ready for Production • Hadi Hariri](https://youtu.be/BnTtjywqAX8)
 - [Getting started with Kotlin/JVM](https://kotlinlang.org/docs/tutorials/getting-started.html)
 - [Getting started with Kotlin on Android](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 - [Getting started with Kotlin/JS](https://kotlinlang.org/docs/tutorials/javascript/kotlin-to-javascript/kotlin-to-javascript.html)
