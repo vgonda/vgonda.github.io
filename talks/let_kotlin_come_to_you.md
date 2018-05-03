@@ -4,8 +4,9 @@
 
 - [GOTO Chicago 2018](https://gotochgo.com/2018) - _Invited_
 
-## Resources
+## Resources 
 
+- [**Slides**](https://speakerdeck.com/vgonda/let-kotlin-come-to-you)
 - [Learn Kotlin basics](https://try.kotlinlang.org)
 - [GOTO 2017 • Kotlin - Ready for Production • Hadi Hariri](https://youtu.be/BnTtjywqAX8)
 - [Getting started with Kotlin/JVM](https://kotlinlang.org/docs/tutorials/getting-started.html)
