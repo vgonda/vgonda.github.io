@@ -8,6 +8,7 @@
 ## Resources 
 
 - **[Slides](https://speakerdeck.com/vgonda/getting-started-with-androidx-test)**
+- **[Sample code](https://github.com/vgonda/TaskList/blob/master/app/src/test/java/com/victoriagonda/android/tasklist/MainActivityTest.kt)**
 - [Twitter Polls](https://twitter.com/TTGonda/status/1100896863270649857)
 - [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://youtu.be/wYMIadv9iF8)
 - [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://youtu.be/4m2yYSTdvIg)
