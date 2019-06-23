@@ -7,6 +7,7 @@
 ## Resources 
 
 - **[Twitter thread](https://twitter.com/TTGonda/status/1123025116139544576)**
+- [Maintainable UI test by leveraging Kotlin](https://youtu.be/wlb3lg5JocA)
 - [Screen Robots](https://www.raywenderlich.com/949489-espresso-testing-and-screen-robots-getting-started)
 - [Kakao](https://www.raywenderlich.com/1505688-ui-testing-with-kakao-tutorial-for-android-getting-started)
 - [Spek](https://spekframework.org/)
