@@ -6,6 +6,7 @@
 
 ## Resources 
 
+- **[Slides](https://speakerdeck.com/vgonda/transforming-your-tests-with-kotlin)**
 - **[Twitter thread](https://twitter.com/TTGonda/status/1123025116139544576)**
 - [Maintainable UI test by leveraging Kotlin](https://youtu.be/wlb3lg5JocA)
 - [Screen Robots](https://www.raywenderlich.com/949489-espresso-testing-and-screen-robots-getting-started)
