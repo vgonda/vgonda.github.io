@@ -4,6 +4,12 @@
 
 - [Chicago Roboto 2019](https://chicagoroboto.com) - _Accepted_
 - [Chicago Java Users Group](https://www.meetup.com/ChicagoJUG/events/259936928/) - _Invited_
+- [Mobile Era 2019](https://mobileera.rocks/) - _Rejected_
+- [Codemotion Milan 2019](https://events.codemotion.com/conferences/milan/2019/) - _Rejected_
+- [Codemotion Madrid 2019](https://events.codemotion.com/conferences/madrid/2019/) - _Rejected_
+- [droidcon India 2019](https://www.in.droidcon.com/) - _Submitted_
+- [Øredev 2019](https://oredev.org/) - _Accepted_
+- [Chicago Java Users Group](https://www.meetup.com/ChicagoJUG/events/259936928/) - _Invited_
 
 ## Resources 
 
