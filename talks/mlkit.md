@@ -11,3 +11,4 @@
 - [AutoML Vision Edge Codelab](https://codelabs.developers.google.com/codelabs/automl-vision-edge-in-mlkit/index.html)
 - [Erik's MLKit talk from Øredev 2018](https://vimeo.com/314312723)
 - [Using MLKit with CameraX](https://www.bignerdranch.com/blog/using-firebasemlkit-with-camerax/)
+- [Conference slide -> Twitter handle tutorial](https://www.raywenderlich.com/5804-text-recognition-with-ml-kit) _Note, the APIs have changed slightly since this tutorial was released._
