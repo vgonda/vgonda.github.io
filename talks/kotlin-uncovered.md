@@ -10,3 +10,17 @@
 - [Strangeloop 2017](https://www.thestrangeloop.com/) - _Accepted_
 - [DevFest Florida 2017](https://devfestflorida.org/) - _Accepted_
 - [.droidconSF 2017](https://sf.droidcon.com/) - _Accepted_
+- droidcon Berlin - _Declined_
+
+## Resources
+
+-   **[Slides](https://speakerdeck.com/vgonda/kotlin-uncovered-november-2017)**
+-   [Blog series](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
+
+## Recordings
+
+-   Droidcon Boston 2017: [video](https://news.realm.io/news/kotlin-does-java-droidcon-boston-2017-gonda/)
+-   Chicago Roboto 2017 (Keynote): [video](https://vimeo.com/217569130)
+-   360|AnDev 2017: [video](https://academy.realm.io/posts/360-andev-2017-victoria-gonda-kotlin-uncovered/)
+-   Strangeloop 2017: [video](https://youtu.be/_qQ6fchwKfM)
+-   .droidconSF 2017: [video](https://youtu.be/8GhBDMKtEdM)

@@ -9,3 +9,14 @@
 - [SoftwareGR](https://www.meetup.com/Software-GR-and-GLSEC/events/247096959/) - _Invited_
 - [Nerd Interface](https://www.meetup.com/NerdInterface/events/248105984/) - _Invited_
 - [Hope College Computer Science Colloquium](https://hope.edu/academics/computer-science/) - _Invited_
+- [KOTLIN/Everywhere Chicago](http://chicago.kotlineverywhere.com/) - _Accepted_
+
+## Resources
+
+- **[Slides](https://speakerdeck.com/vgonda/functional-android)**
+
+## Recordings
+
+- droidcon NYC 2018: [video](https://youtu.be/cRQfz37J63Y)
+- SoftwareGR: [video](https://youtu.be/W7ne9Rp4Vww)
+- Hope College Computer Science Colloquium: [video](https://vimeo.com/296497246)

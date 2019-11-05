@@ -4,7 +4,7 @@
 
 - [Chicago Kotlin Users Group](https://www.meetup.com/Chicago-Kotlin/events/260487964/) - _Invited_
 
-## Resources 
+## Resources
 
 - **[Slides](https://speakerdeck.com/vgonda/transforming-your-tests-with-kotlin)**
 - **[Twitter thread](https://twitter.com/TTGonda/status/1123025116139544576)**
@@ -15,3 +15,7 @@
 - [Mockito-Kotlin](https://github.com/nhaarman/mockito-kotlin)
 - [Kluent](https://markusamshove.github.io/Kluent/)
 - [Biscotti](https://github.com/bufferapp/Biscotti)
+
+## Recordings
+
+- Chicago Kotlin Users Group: [video](https://youtu.be/Df4EzbwXrlE)

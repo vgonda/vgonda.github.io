@@ -7,14 +7,15 @@
 - [Mobile Era 2019](https://mobileera.rocks/) - _Rejected_
 - [Codemotion Milan 2019](https://events.codemotion.com/conferences/milan/2019/) - _Rejected_
 - [Codemotion Madrid 2019](https://events.codemotion.com/conferences/madrid/2019/) - _Rejected_
-- [droidcon India 2019](https://www.in.droidcon.com/) - _Submitted_
+- [droidcon India 2019](https://www.in.droidcon.com/) - _Declined_
 - [Øredev 2019](https://oredev.org/) - _Accepted_
 - [Chicago Java Users Group](https://www.meetup.com/ChicagoJUG/events/259936928/) - _Invited_
 
-## Resources 
+## Resources
 
 - **[Slides](https://speakerdeck.com/vgonda/getting-started-with-androidx-test)**
 - **[Sample code](https://github.com/vgonda/TaskList/blob/master/app/src/test/java/com/victoriagonda/android/tasklist/MainActivityTest.kt)**
+- **[Test-Driven Development by Tutorials](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials)**
 - [Twitter Polls](https://twitter.com/TTGonda/status/1100896863270649857)
 - [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://youtu.be/wYMIadv9iF8)
 - [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://youtu.be/4m2yYSTdvIg)
@@ -24,3 +25,7 @@
 - [Robolectric AndroidX Test](http://robolectric.org/androidx_test/)
 - [Stepping into Activity tests with ActivityScenarios](https://medium.com/google-developer-experts/stepping-into-activity-tests-with-activityscenarios-5db98d5311e6)
 - [Truth Comparison](https://google.github.io/truth/comparison)
+
+## Recordings
+
+- Chicago Roboto 2019: [video](https://vimeo.com/334519652)
