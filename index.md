@@ -1,5 +1,3 @@
-# Victoria Gonda
-
 [Blogs](blogs.md) | [Books](books.md) | [Talks](talks.md) | [Newsletter](https://tinyletter.com/vgonda) | [Twitter](https://twitter.com/TTGonda)
 
 **Hello!**
