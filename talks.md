@@ -1,7 +1,5 @@
-# Talk-Resources
+# Talk Resources
 Resources of my talks, along side acceptance/rejection logs. Note: most logged rejections are as memory serves, and there are more that have been forgotten or misremembered.
-
-Don't see what you're looking for? Try [my website](http://www.victoriagonda.com/talks).
 
 ---
 
