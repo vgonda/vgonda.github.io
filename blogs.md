@@ -1,6 +1,8 @@
+# Blogs and Articles
+
 [Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
-# Blogs and Articles
+---
 
 ## [Live Templates in Android Studio: Getting Started](https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started)
 In this tutorial, you’ll learn how to use and create live templates in Android Studio so you can write code more quickly.

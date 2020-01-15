@@ -1,7 +1,5 @@
 [Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
-**Hello!**
-
 I’m an Android developer 💻.
 
 I love the work I do as an Android Developer. I enjoy learning about new things, and applying them to my work. You can keep up to date on the things I've been working on by subscribing to my [newsletter](https://tinyletter.com/vgonda) 📬.

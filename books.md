@@ -1,6 +1,8 @@
+# Books
+
 [Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
-# Books
+---
 
 ![Android Test-Driven Development](images/atdd.png)
 
