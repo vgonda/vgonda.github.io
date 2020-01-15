@@ -1,3 +1,4 @@
+[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
 ## [Live Templates in Android Studio: Getting Started](https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started)
 In this tutorial, you’ll learn how to use and create live templates in Android Studio so you can write code more quickly.
@@ -34,4 +35,4 @@ It's important to write tests, but it can be repetitive. You can use Live Templa
 
 _overflow.buffer.com - Jan 3, 2019_
 
-[2019](blogs.md) | [2018](blogs/2018.md) | [2017](blogs/2017.md) | [2016](blogs/2016.md) | [2015](blogs/2015.md)
+[2019](blogs.md) ❖ [2018](blogs/2018.md) ❖ [2017](blogs/2017.md) ❖ [2016](blogs/2016.md) ❖ [2015](blogs/2015.md)
