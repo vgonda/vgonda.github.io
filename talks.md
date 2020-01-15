@@ -1,6 +1,7 @@
 [Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
-# Talk Resources
+# Talks
+
 Resources of my talks, along side acceptance/rejection logs. Note: most logged rejections are as memory serves, and there are more that have been forgotten or misremembered.
 
 ---
