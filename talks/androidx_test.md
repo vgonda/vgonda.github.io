@@ -29,3 +29,4 @@
 ## Recordings
 
 - Chicago Roboto 2019: [video](https://vimeo.com/334519652)
+- Øredev 2019: [video](https://youtu.be/FR4k_dtB5eg)
