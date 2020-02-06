@@ -4,6 +4,7 @@
 
 - [Øredev 2019](https://oredev.org/) - _Accepted_
 - [360\|AnDev](https://360andev.com/) - _Submitted_
+- [Codemotion Madrid 2020](https://www.codemotion.com/) - _Submitted_
 
 ## Resources
 
@@ -16,5 +17,4 @@
 
 ## Recordings
 
-- Chicago Roboto 2019: [video](https://vimeo.com/334519652)
 - Øredev 2019: [video](https://youtu.be/9sqM5DgBjhs)
