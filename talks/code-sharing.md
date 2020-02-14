@@ -4,6 +4,7 @@
 
 - [Codemotion Madrid 2020](https://www.codemotion.com/) - _Submitted_
 - [KotlinConf 2020](https://kotlinconf.com/) - _Submitted_
+- [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Submitted_
 
 ## Resources
 
