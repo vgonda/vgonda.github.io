@@ -11,7 +11,7 @@ _**Role:** Author_
 
 A book that teaches you to write sustainable, testable apps, as well as to apply testing strategies to legacy projects via Espresso and UI tests, code coverage and refactoring. [Read](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials)
 
-![Rx with Kotlin](images/atdd.png)
+![Rx with Kotlin](images/arx.png)
 
 # [Reactive Programming with Kotlin](https://store.raywenderlich.com/products/reactive-programming-with-kotlin)
 _**Role:** Tech Editor_
