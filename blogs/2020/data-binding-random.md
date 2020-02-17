@@ -6,7 +6,7 @@ Consider this situation: You have an entry screen that displays a welcome messag
 
 You could add this randomization logic to your view model. But that feels rather overkill for assigning a resource to a text view. I ran into this exact thing and I have a solution for you.
 
-Starting with the easy part, create a string array in your resource file:
+Starting with the data, create a string array in your resource file:
 
 ```xml
 <string-array name="event_attendees_empty">
