@@ -43,3 +43,7 @@ And there you have it!
 This blog post was helped out by [this StackOverflow answer](https://stackoverflow.com/a/36905271) about how to use string arrays in data binding. Thanks!
 
 _02/15/2020_
+
+-----
+
+**Did you know I co-authored a book about testing on Android?** [Check it out](../../books.md)
