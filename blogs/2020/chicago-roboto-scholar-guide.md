@@ -20,11 +20,11 @@ There are a few different stages of this program as we move through the timeline
 
 Both the scholars and the guides fill out applications before selection and pairing. This is not only for selection, but also to make sure we can make relevant pairs. If a scholar is most interested in networking we will pair them with a guide excited to meet other developers. We'll pair a scholar who is most interested in learning from talks with a guide who can help them plan out which sessions to attend.
 
-You yourself can apply before March 8th on [our website](https://chicagoroboto.com/about/inclusivity/).
+You yourself can apply before August 24th on [our website](https://chicagoroboto.com/about/inclusivity/).
 
 ### Selection, Pairing, Announcements
 
-When the applications close on March 8th, this will be our next stage to work on. We'll take a look at all the scholarship applications, make selections, share the good news with them, and confirm their attendance. Once we know they're coming, we can work on guide selections. The primary indicator on if we select a guide is if there is a scholar who is a good fit for them. This means that we might not pick someone who would be an awesome guide because of the scholar selections for the year. If this is you, please apply again the next year.
+When the applications close on August 24th, this will be our next stage to work on. We'll take a look at all the scholarship applications, make selections, share the good news with them, and confirm their attendance. Once we know they're coming, we can work on guide selections. The primary indicator on if we select a guide is if there is a scholar who is a good fit for them. This means that we might not pick someone who would be an awesome guide because of the scholar selections for the year. If this is you, please apply again the next year.
 
 ### Event Days
 
