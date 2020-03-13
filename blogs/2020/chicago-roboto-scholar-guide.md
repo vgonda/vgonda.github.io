@@ -50,3 +50,7 @@ _02/25/2020_
 -----
 
 **Did you know I co-authored a book about testing on Android?** [Check it out](../../books.md)
+
+---
+
+If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!

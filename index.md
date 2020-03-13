@@ -9,3 +9,7 @@ In addition to speaking at conferences, I also write for [Ray Wenderlich](https:
 While studying at [Hope College](https://hope.edu/), I also started getting involved in dance technology and dance production 🎭. I had a couple projects that worked together with a dancer and an Xbox Kinect, and did a significant amount of lighting design. Ask me about them, I love talking about it!
 
 When I’m not out doing these things, you can find me in my home base of Chicago 🏙️ with my fiance, Tyler. In my spare time, I enjoy playing board games with friends, or curled up at home with a good book, my cat, [Peter Pan](https://www.instagram.com/p/BgoGqmRlGSk/) 😻, and hedgehog, [Khoshekh](https://www.instagram.com/p/Bge6vC0h1Cx/) 🦔.
+
+---
+
+If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!

@@ -17,3 +17,7 @@ A book that teaches you to write sustainable, testable apps, as well as to apply
 _**Role:** Tech Editor_
 
 The book that teaches you to use RxJava, RxAndroid and RxKotlin to create complex reactive applications on Android and exercise full control over the library to leverage the full power of reactive programming in your apps. [Read](https://store.raywenderlich.com/products/reactive-programming-with-kotlin)
+
+---
+
+If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!

@@ -60,3 +60,7 @@ We can learn a lesson from dancers about how to respond to feedback. [More](talk
 -   [Android Dialogs](https://youtu.be/E_h-6N77qr8)
 -   [Thunder Nerds](https://youtu.be/RqVH51WtxeI)
 -   [The Remote Dev](https://soundcloud.com/the-remote-dev/episode-4-victoria-gonda-buffer)
+
+---
+
+If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!

@@ -17,3 +17,7 @@ _victoriagonda.com - Feb 15, 2020_
 
 
 [2020](blogs.md) ❖ [2019](blogs/2019.md) ❖ [2018](blogs/2018.md) ❖ [2017](blogs/2017.md) ❖ [2016](blogs/2016.md) ❖ [2015](blogs/2015.md)
+
+---
+
+If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!
