@@ -6,6 +6,7 @@
 - [KotlinConf 2020](https://kotlinconf.com/) - _Submitted_
 - [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Submitted_
 - [Øredev 2020](https://oredev.org/) - _Submitted_
+- [Mobius 2020](https://mobius-piter.ru/en/) - _Submitted_
 
 ## Resources
 
