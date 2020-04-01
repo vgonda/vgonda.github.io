@@ -4,6 +4,12 @@
 
 ---
 
+## [Keeping our Android Navigation Safe](https://medium.com/making-meetup/keeping-our-navigation-safe-cf422b93421c)
+This is how test our navigation across feature modules so we can be sure our string activity names were updated and working even after a refactor.
+
+_medium.com - April 1, 2020_
+
+
 ## [How I Started the Chicago Roboto Scholar/Guide Program](blogs/2020/chicago-roboto-scholar-guide.md)
 This year we started a scholar/guide program for Chicago Roboto. Here's how we designed it.
 
