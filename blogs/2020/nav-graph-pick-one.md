@@ -4,7 +4,7 @@
 
 **tl;dr** Only add your nav graph one place. Want to know why, read on.
 
-I was learning how to use navigation components and I did what many of us do: read a bunch of blog posts to piece together how to do what I wanted to accomplish. You all have created so many great resources on how to use the latest libraries that this made my job quick for me. I had navigation set up for this feature in no time.
+I was learning how to use navigation components and I did what many of us do: read a bunch of blog posts to piece together how to do what I wanted to accomplish. You all have created so many great resources on how to use the latest libraries. I had navigation set up for this feature in no time.
 
 It wasn't long after that I started to notice some odd behavior. When rotating the device, I would always end on my start destination no matter where I was in the graph. For example, say I had a start destination fragment of a list and a detail fragment that I navigated to when you click a list item. After navigating to the detail fragment, then rotate the device, I would be back on the start destination list.
 
