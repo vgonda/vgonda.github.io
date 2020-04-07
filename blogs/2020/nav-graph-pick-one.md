@@ -1,3 +1,5 @@
+[Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
 # Pick one: Setting your nav graph
 
 **tl;dr** Only add your nav graph one place. Want to know why, read on.
@@ -6,7 +8,7 @@ I was learning how to use navigation components and I did what many of us do: re
 
 It wasn't long after that I started to notice some odd behavior. When rotating the device, I would always end on my start destination no matter where I was in the graph. For example, say I had a start destination fragment of a list and a detail fragment that I navigated to when you click a list item. After navigating to the detail fragment, then rotate the device, I would be back on the start destination list.
 
-I dug into the source code (which I later discovered I misunderstood). It suggested to me that I should only set the graph in the activity if it was the first time the activity was opened. I added a check for `savedInstanceState,` and it seemed to solved the problem. I soon found out I was mistaken.
+I dug into the source code (which I later discovered I misunderstood). It suggested to me that I should only set the graph in the activity if it was the first time the activity was opened. I added a check for `savedInstanceState`, and it seemed to solved the problem. I soon found out I was mistaken.
 
 ```kotlin
 // DON'T DO THIS
