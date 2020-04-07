@@ -4,6 +4,11 @@
 
 ---
 
+## [Pick one: Setting your nav graph](blogs/2020/nav-graph-pick-one.md)
+When you're setting your Navigation Graph twice, you can get some strange behavior like a disappearing backstack!
+
+_victoriagonda.com - April 6, 2020_
+
 ## [Keeping our Android Navigation Safe](https://medium.com/making-meetup/keeping-our-navigation-safe-cf422b93421c)
 This is how test our navigation across feature modules so we can be sure our string activity names were updated and working even after a refactor.
 
