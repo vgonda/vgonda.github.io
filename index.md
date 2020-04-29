@@ -12,4 +12,4 @@ When I’m not out doing these things, you can find me in my home base of Chicag
 
 ---
 
-If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

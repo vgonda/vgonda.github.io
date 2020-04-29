@@ -20,4 +20,4 @@ The book that teaches you to use RxJava, RxAndroid and RxKotlin to create comple
 
 ---
 
-If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

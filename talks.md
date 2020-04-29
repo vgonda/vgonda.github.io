@@ -48,4 +48,4 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 ---
 
-If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

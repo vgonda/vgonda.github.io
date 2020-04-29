@@ -31,4 +31,4 @@ _victoriagonda.com - Feb 15, 2020_
 
 ---
 
-If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/96JjLEW)!
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!
