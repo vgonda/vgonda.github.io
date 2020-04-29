@@ -4,7 +4,7 @@
 
 ---
 
-Some of my favorite topics to talk about are testing, accessibility, and Android. Learn more about the talks I've given, watch recordings, and view resources.
+Speaking at conferences has been an enjoyable way to connect with the community. Some of my favorite topics to talk about are testing, accessibility, and Android. Learn more about the talks I've given, watch recordings, and view resources.
 
 ## Testing
 -   [Getting Started with AndroidX Test](talks/androidx_test.md)
