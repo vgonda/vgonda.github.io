@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Program Like A Dancer (Lightning talk)
 
 > We can learn a lesson from dancers about how to respond to feedback.

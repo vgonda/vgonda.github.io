@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Shedding Light on Development Process (Lightning talk)
 
 > There are many steps included in working on an application end to end. Researching, assessing requirements, and addressing an end user’s needs are all part of this. Turns out, it follows many of the same steps as those for designing lights for a dance or theater performance. This talk will bring some enlightenment to the things lighting designers and software developers can bring to each other.

@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Functional Android
 
 > For the most part, programming in Android has meant living in the imperative programming world. Recently, many aspects of functional programming have become standard with the adoption of Kotlin and RxJava. What does it mean to use functional paradigm properties in our Android code, and how can it help us? In this talk you’ll learn some of the fundamentals of functional programming, and what this might look like on Android.

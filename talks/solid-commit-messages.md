@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Writing Solid Commit Messages (Lighting talk)
 
 > How often have you come across some code and thought "why is it written this way?" What if instead, you found a message explaining exactly why the code was written the way it is? We can do that with commit messages! By thinking about what questions you might have in the future, you can make everyone's life a little easier. In this talk, we will go over how you can write commit messages to help out your team members review your code and future you understand what you wrote.

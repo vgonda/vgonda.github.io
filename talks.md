@@ -6,6 +6,8 @@
 Speaking at conferences has been an enjoyable way to connect with the community. Some of my favorite topics to talk about are testing, accessibility, and Android. Learn more about the talks I've given, watch recordings, and view resources.
 
 ## Testing
+<details><summary>Wake Your Brain Up with Test-Driven Development</summary>An interactive, online presentation about Test-Driven Development. I'll share trivia questions on the topic followed by an explanation of the answers. Test-Driven Development (TDD) is a software development process where you write failing tests before writing the code to make it pass. If it's not something you're familiar with, it can be hard to learn how to get started with TDD. We’ll go over the basics of testing and TDD, how you can apply it at varying levels of your architecture, and what steps to take if you’re working with legacy code. <a href="talks/wake-up-tdd.html">More</a></details>
+
 <details><summary>Getting Started with AndroidX Test</summary>Testing on Android is slowly becoming more approachable. With AndroidX Test, you can use a single test API to run your instrumentation tests either on your mobile device, or on your computer using Robolectric. This is great, so how do you start? In this talk you’ll learn how to use AndroidX Test and Espresso to get started writing Integration tests for your app. <a href="talks/androidx_test.html">More</a></details>
 
 <details><summary>Test-Driven Development on Android</summary>Test-Driven Development (TDD) is a software development process where you write failing tests before writing the code to make it pass. This can be a common practice in some technology circles, but we’ve seen slow adoption on Android. Because it’s not embedded in the Android culture, it can be hard to learn how to get started with TDD. In this talk, we’ll go over the basics of TDD, how you can apply it at varying levels in an Android architecture, and what steps to take if you’re working with legacy code. You should walk away from this talk with the tools you need to get started exploring practicing TDD on your own. <a href="talks/tdd.html">More</a></details>
@@ -33,7 +35,7 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 ## Lightning talks
 <details><summary>Writing Solid Commit Messages</summary>How often have you come across some code and thought "why is it written this way?" What if instead, you found a message explaining exactly why the code was written the way it is? We can do that with commit messages! By thinking about what questions you might have in the future, you can make everyone's life a little easier. In this talk, we will go over how you can write commit messages to help out your team members review your code and future you understand what you wrote. <a href="talks/solid-commit-messages.html">More</a></details>
 
-<details><summary>Internationalization-ing</summary>We have users and potential users all over the globe. How can we make our apps accessible and comfortable for those in any local? This short talk goes over the basics of what internationalization is and what you need to consider when working towards it.</details>
+<details><summary>Internationalization-ing</summary>We have users and potential users all over the globe. How can we make our apps accessible and comfortable for those in any local? This short talk goes over the basics of what internationalization is and what you need to consider when working towards it. <a href="talks/i18n.html">More</a></details>
 
 <details><summary>Accessibility on Android</summary>In this talk, we learn about some of the basics of accessibility on Android, and how we can improve the Buffer app. <a href="talks/a11y.html">More</a></details>
 
@@ -43,7 +45,7 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 ## Podcast and Vlog appearances
 
--   [RayWenderlich.com Podcast](https://youtu.be/CMjxBGBDkt8)
+-   [RayWenderlich.com Podcast: Google I/O Keynote Reactions](https://youtu.be/CMjxBGBDkt8)
 -   [Android Dialogs](https://youtu.be/E_h-6N77qr8)
 -   [Thunder Nerds](https://youtu.be/RqVH51WtxeI)
 -   [The Remote Dev](https://soundcloud.com/the-remote-dev/episode-4-victoria-gonda-buffer)

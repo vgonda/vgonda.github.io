@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Transforming your Tests with Kotlin
 
 > We know we should write tests, and we know that Kotlin gives us some nice features to use in our code, so how can we put these two together? There are some really great ways that Kotlin is being used in test writing, and we'll look at a number of them. This will include features such as higher order functions and escaping back-ticks and how they can make your tests more expressive. We'll also look at some testing libraries that take advantage of Kotlin's features. At the end of this talk you'll walk away with an understanding of how you can use Kotlin to make your tests more enjoyable.

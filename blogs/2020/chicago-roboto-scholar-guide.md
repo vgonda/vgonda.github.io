@@ -1,5 +1,7 @@
 [Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
+---
+
 # How I Started the Chicago Roboto Scholar/Guide Program
 
 This year I started helping organize [Chicago Roboto](https://chicagoroboto.com/) and I'm excited about the opportunities that brings to help improve the conference. To make our Android community a more welcoming space, we're expanding our Diversity and Inclusion tickets to be a [Scholar/Guide program](https://chicagoroboto.com/about/inclusivity/).

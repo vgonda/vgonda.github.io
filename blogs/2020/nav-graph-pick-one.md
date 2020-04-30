@@ -1,5 +1,7 @@
 [Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
+---
+
 # Pick one: Setting your nav graph
 
 **tl;dr** Only add your nav graph one place. Want to know why, read on.

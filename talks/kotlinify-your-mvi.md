@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # Kotlinify your MVI
 
 > MVI is a reactive architecture that simplifies the flow of user actions and data. Because it allows us to create clearly decoupled architectural responsibilities, easily manage application state, and write more concise tests, we decided to use MVI in our latest project.

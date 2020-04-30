@@ -1,5 +1,7 @@
 [Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
 
+---
+
 # Data Binding a Random String
 
 Consider this situation: You have an entry screen that displays a welcome message. Each time the screen is viewed it should pick a random welcome message from a list of possible welcome messages. Say in this scenario that you're also using data binding.

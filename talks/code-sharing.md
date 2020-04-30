@@ -1,3 +1,7 @@
+[Blogs](../blogs.md) ❖ [Books](../books.md) ❖ [Talks](../talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+
+---
+
 # The Future Is Code Sharing
 
 > There are so many frameworks promising code sharing and increasing pressure to use them. There's Kotlin multi-platform, React, Flutter, Xamarin... How do you decide which one to use? In this talk, we'll review our options, their strengths and weaknesses, and why you might choose one over the others. You'll walk away understanding which solution makes sense for your use case so you can spend more time coding and less time duplicating efforts.
@@ -6,7 +10,6 @@
 - [KotlinConf 2020](https://kotlinconf.com/) - _Submitted_
 - [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Submitted_
 - [Øredev 2020](https://oredev.org/) - _Submitted_
-- [Mobius 2020](https://mobius-piter.ru/en/) - _Submitted_
 
 ## Resources
 
