@@ -45,6 +45,7 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 ## Podcast and Vlog appearances
 
+-   [RayWenderlich.com Podcast: TDD for Android with Victoria Gonda](https://www.raywenderlich.com/10360944-tdd-for-android-with-victoria-gonda-podcast-s10-e06)
 -   [RayWenderlich.com Podcast: Google I/O Keynote Reactions](https://youtu.be/CMjxBGBDkt8)
 -   [Android Dialogs](https://youtu.be/E_h-6N77qr8)
 -   [Thunder Nerds](https://youtu.be/RqVH51WtxeI)
