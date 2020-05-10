@@ -11,6 +11,6 @@
 ## Resources
 
 -   [Android Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/240-android-accessibility-tutorial-getting-started)
--   [Accessible tech makes better tech for everyone | Nina Baliga | TEDxSalem](https://youtu.be/2115c0GL4a8)
+-   [Accessible tech makes better tech for everyone](https://youtu.be/2115c0GL4a8)
 -   [It's Always Sunny in Mobile Accessibility](https://www.youtube.com/watch?v=JN5a8-CHyoc)
 -   [WGAC 2.1](https://www.w3.org/TR/WCAG21/)
