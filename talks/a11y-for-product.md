@@ -10,7 +10,7 @@
 
 ## Resources
 
--   **Slides**: [Markdown](a11y-for-product/slides.md) | [Speakerdeck](https://speakerdeck.com/vgonda/increase-your-product-quality-through-accessibility)
+-   **Slides**: [Markdown](a11y-for-product/slides.md) - [Speakerdeck](https://speakerdeck.com/vgonda/increase-your-product-quality-through-accessibility)
 -   [Android Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/240-android-accessibility-tutorial-getting-started)
 -   [Accessible tech makes better tech for everyone](https://youtu.be/2115c0GL4a8)
 -   [It's Always Sunny in Mobile Accessibility](https://www.youtube.com/watch?v=JN5a8-CHyoc)
