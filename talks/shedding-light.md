@@ -16,3 +16,7 @@
 ## Recordings
 
 - Windy City Rails 2017: [video](https://www.youtube.com/watch?v=Q_6-gOBg3sc&feature=youtu.be&t=9m39s)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

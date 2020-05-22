@@ -21,3 +21,7 @@
 ## Recordings
 
 - Øredev 2019: [video](https://youtu.be/9sqM5DgBjhs)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

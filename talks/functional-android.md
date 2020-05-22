@@ -24,3 +24,7 @@
 - droidcon NYC 2018: [video](https://youtu.be/cRQfz37J63Y)
 - SoftwareGR: [video](https://youtu.be/W7ne9Rp4Vww)
 - Hope College Computer Science Colloquium: [video](https://vimeo.com/296497246)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

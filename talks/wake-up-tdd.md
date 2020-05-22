@@ -13,3 +13,7 @@
 ## Resources
 
 -   [Inspiration](tdd.md)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

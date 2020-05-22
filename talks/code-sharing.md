@@ -14,3 +14,7 @@
 ## Resources
 
 - [Kotlin Multiplatform – Cross Platform Development With Kotlin](https://goobar.io/2020/02/03/kotlin-multiplatform-cross-platform-development-with-kotlin/)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

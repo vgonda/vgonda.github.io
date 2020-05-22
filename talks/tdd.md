@@ -12,3 +12,7 @@
 
 - **[Slides](https://speakerdeck.com/vgonda/android-test-driven-development)**
 - **[Test-Driven Development by Tutorials](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials)**
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

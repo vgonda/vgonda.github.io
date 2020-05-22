@@ -16,3 +16,7 @@
 ## Recordings
 
 - RubyConf 2016: [video](https://youtu.be/SswGJpZVNFg?t=48m3s)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

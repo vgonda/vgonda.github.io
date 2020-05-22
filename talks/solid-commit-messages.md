@@ -14,3 +14,7 @@
 -   [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 -   [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 -   [Git Commit Messages For The Bold And The Daring](https://medium.com/nulab/git-commit-messages-for-the-bold-and-the-daring-3cc91a91e29b)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

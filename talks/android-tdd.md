@@ -9,3 +9,7 @@
 - [Mobile Era 2019](https://mobileera.rocks/) - _Rejected_
 - [Codemotion Milan 2019](https://events.codemotion.com/conferences/milan/2019/) - _Rejected_
 - [Codemotion Madrid 2019](https://events.codemotion.com/conferences/madrid/2019/) - _Rejected_
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

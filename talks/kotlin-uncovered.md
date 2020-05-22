@@ -28,3 +28,7 @@
 -   360|AnDev 2017: [video](https://academy.realm.io/posts/360-andev-2017-victoria-gonda-kotlin-uncovered/)
 -   Strangeloop 2017: [video](https://youtu.be/_qQ6fchwKfM)
 -   .droidconSF 2017: [video](https://youtu.be/8GhBDMKtEdM)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!

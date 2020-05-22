@@ -34,3 +34,7 @@
 
 - Chicago Roboto 2019: [video](https://vimeo.com/334519652)
 - Øredev 2019: [video](https://youtu.be/FR4k_dtB5eg)
+
+---
+
+If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!
