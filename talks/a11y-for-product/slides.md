@@ -206,6 +206,7 @@ Audio, video, and auto advance
 - If you have an on boarding tutorial video, is there text to go with it? Maybe captions?
 - Does your app use audio cues?
 - Imagine downloading a new app and not being able to get past on boarding because you can't access the instructions in a way you can perceive.
+- It also helps if you download an app and you don't want to watch the onboarding video because there's a sleeping kid next to you
 
 ---
 
@@ -226,6 +227,7 @@ Also
 - It could cause others anxiety if they feel they missed something and can't go back, or if they feel there's limited time to absorb some bit of information
 - People with motor or cognitive disabilities might need more time
 - Finally, motion and animation could be distracting for some about detract from what you're trying to communicate.
+- It also helps if you download an app and you missed the onboarding video because you have an awake and loud kid next to you
 
 ---
 
@@ -253,6 +255,7 @@ Don't rely on only a visual or audio cue to convey information
 ^Notes:
 - If you're trying to communicate something to your user, don't rely on only these things because they might not be perceivable
 - An example might be when an error pops up on the screen. Does someone who's using a screen reader know that there's a new error?
+- This helps anyone who might have looked away from their phone for a moment and missed the transition
 
 ---
 
@@ -279,6 +282,9 @@ Color contrast
 - Any text that needs to be distinguishable needs to have a contrast of 7:1 for most text and 4.5:1 for large text
 - Exceptions include things like decorations or logos
 - There are similar contrast rules for other controls like buttons that need to be perceivable
+- I use digital wellbeing to make my phone grayscale after a certain time at night
+- If an app doesn't have adequate color contrast, it becomes hard for me to use
+- It kinda simulates color blindness or other vision impairments
 
 ---
 
@@ -296,8 +302,7 @@ Conveying information
 - Similar to audio and other visual cues, it shouldn't be the only way you communicate something
 - For example, don't only use red and green to show something is a success or failure. You should also use something like icons or text in case the colors aren't perceptible.
 - I have an app that uses color as one way to show if an answer is right or wrong
-- I also use digital wellbeing to make my phone grayscale after a certain time at night
-- This app becomes harder to use after that time.
+- This app becomes harder to use after my phone becomes grayscale.
 
 ---
 
@@ -309,6 +314,7 @@ Conveying information
 
 ^Notes:
 - If someone has the font size bumped way up, you should still be able to use your app like normal
+- As we all age and our vision deteriorates, we'll all be thankful for this one
 - One of the easiest ways to violate this is if you assume a text view will always be under a certain width or height
 - In the case of when text views are next to each other, constrain layout flows can help bump a view to the next line if needed
 
@@ -366,7 +372,7 @@ _Allow extending time if needed, or don't put time limits at all_
 
 ^Notes:
 - This one applies for so many reasons
-- If something is showing and hiding, someone who is slower at consuming the information might miss it
+- If something is showing and hiding, someone who is slower at consuming the information might miss it. This could be because of a disability, or simply because of an outside distraction
 - And a similar argument for those with motor restrictions
 - It's also better for users with anxiety to not have those time limits to contribute to any anxious feelings
 - There are exceptions for this one. For example, if something goes out of stock or it's a time based game
@@ -384,6 +390,7 @@ _And you should be able to back out of single touch ones, too_
 - This covers things that might take multiple fingers, like pinch to zoom out
 - In case someone isn't able to pinch for one reason or another, there should be another way to accomplish the task. An idea of an additional way to access the functionality in this case might be a slider
 - And for single touch actions, there should be a way to back out or undo. This might be if you move your finger off of the button before you lift up, the action isn't performed (default), or having an "undo" or "back" option.
+- These options are good for everyone, especially in the case for one handed use
 
 ---
 
