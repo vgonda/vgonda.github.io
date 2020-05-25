@@ -20,6 +20,7 @@
 -   [Android Accessibility Guidelines](https://developer.android.com/guide/topics/ui/accessibility/apps)
 -   [iOS Accessibility Guidelines](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/)
 -   [New Ruling Reiterates That Websites and Mobile Apps Need to Be ADA Compliant](https://www.blankrome.com/publications/new-ruling-reiterates-websites-and-mobile-apps-need-be-ada-compliant)
+-   [Designing with Cognitive Differences in Mind / Elizabeth Schafer #ID24 2019](https://youtu.be/CKhkLs6th6A)
 
 ---
 

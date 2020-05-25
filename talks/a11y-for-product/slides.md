@@ -8,8 +8,9 @@ Footer: @TTGonda
 # Go to **menti.com**
 
 ^Notes:
--  We will create a word cloud together
-- This is only available live
+- We will create a word cloud together
+- Keep this link open throughout the talk
+- This is only available during the live talk
 
 ---
 
@@ -26,13 +27,13 @@ Footer: @TTGonda
 # Why should **you** care?
 
 ^Notes:
--  Lots of reasons ->
+- Lots of reasons ->
 - From product to personal to legal
 
 ---
 
 ## Makes a better product
-### _A product that is created with accessibility in mind provides a better experience for_ **_everyone._**
+### _A product created with accessibility in mind provides a better experience for_ **_everyone._**
 
 
 ^Notes:
@@ -41,11 +42,12 @@ Footer: @TTGonda
     - Driving
     - Broken wrist
     - Eyes dilated
-- Keyboard nav (esc to close modal, enter to submit form, tab to advance to next form field)
-- Captions on videos
-- Customization (dark mode, audio settings)
-- Phone vibration
-- More consistent and predictable layouts
+- Everyday things
+    - Keyboard nav (esc to close modal, enter to submit form, tab to advance to next form field)
+    - Captions on videos
+    - Customization (dark mode, audio settings)
+    - Phone vibration
+    - More consistent and predictable layouts
 
 ---
 
@@ -54,19 +56,18 @@ Footer: @TTGonda
 ### **_1 in 4_** _adults in the US have some type of disability_
 
 ^Notes:
-- People with disabilities represent the largest minority group
+- People with disabilities represent one of the largest minority groups
 - According to the CDC, 1 in 4 adults in the US have some type of disability
 - By catering to this group, you have access to a larger user base
-- https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html
+- Resource: https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html
 
 ---
-
 
 ## Drive innovation
 ### _Constraints are fuel for_ **_creativity_**
 
 ^Notes:
--  Creating apps for accessibility does mean working within constraints
+- Creating apps for accessibility does mean working within constraints
 - Maybe you can't fit as much content on the screen
 - This means you have to really think about what's important and where it's located, making it a better experience for everyone
 
@@ -76,7 +77,8 @@ Footer: @TTGonda
 ### **_ADA_** _Compliance_
 
 ^Notes:
--  Support accessibility guidelines _before_ there's a lawsuit
+- The reality is that there can be lawsuits because your app isn't accessible
+- Support accessibility guidelines _before_ there's a lawsuit
 
 ---
 
@@ -85,16 +87,16 @@ Footer: @TTGonda
 ### _Let’s change the narrative “heroic disabled person overcomes obstacles” to_ **_“society is inclusive, all can succeed.”_** - Haben Girma
 
 ^Notes:
--  Because it's the right thing to do.
+- Because it's the right thing to do.
 - We want to be an inclusive society that takes care of our neighbors
 - Imagine being under shelter-in-place and not being able to order food because the app isn't assessable for you
 
 ---
 
-# Quiz time!
+# Question time!
 
 ^Notes:
--  I'm not showing the leaderboard, so no one will see who answered what.
+- I'm not showing the leaderboard, so no one will see who answered what.
 - Question: Who can test for accessibility improvements?
 - Answer: Anyone who is willing to
 
@@ -106,13 +108,25 @@ Footer: @TTGonda
 - _Display size and font size_
 - _Color changes_
 
+^Notes:
+- There are some modified ways people can consume our apps
+- Screen readers, like Talkback on Android and VoiceOver on iOS are one way people consume apps
+    - It allows a user to traverse the screen, sometimes without touch, and understand what's on the screen without sight
+    - Some familiar ways to think about this might be using an app on a TV, using "next" and "select" using buttons
+    - Another might be using your phone via the assistant/siri
+- Display and font size can be made bigger for people with low visibility
+- There are also color corrections to help people with color blindness
+
 ---
 
 # Accessibility testing
 - _Manual/user testing_
-- _Accessibility Scanner/Axe_
+- _Accessibility Scanner/Accessibility Inspector/Axe_
 - _Automated tests_
 - _Lint checks_
+
+^Notes:
+- The most reliable and comprehensive of these are manual and user testing
 
 ---
 
@@ -131,8 +145,8 @@ Footer: @TTGonda
 #### Perceivable, Operable, Understandable, Robust
 
 ^Notes:
--  According to Web Content Accessibility Guidelines (WCAG) 2.1
-- We don't have time to go over EVERYTHING, but will hit some of the quickest ways to support accessibility.
+- According to Web Content Accessibility Guidelines (WCAG) 2.1
+- We don't have time to go over EVERYTHING, but will hit some of the things you're most likely to run into
 - Thing of it as a sample platter
 - The goal is that when you're making a product decision you can think back and remember "I think there was an accessibility argument for that. Let me remind myself before deciding"
 - WGAC uses 4 categories to organize the guidelines
@@ -142,7 +156,7 @@ Footer: @TTGonda
 
 ## Perceivable
 
-###**_"Information and user interface components must be presentable to users in ways they can perceive."_**
+### **_"Information and user interface components must be presentable to users in ways they can perceive."_**
 
 ^Notes:
 - This requires thinking about ways that people can consume content.
@@ -151,12 +165,12 @@ Footer: @TTGonda
 
 ---
 
-# Quiz time!
+# Question time!
 
 ^Notes:
 - There are lots of correct answers to this one and it would only let me put in 5. You all have great answers
-Question: What is a way people can perceive your app? (example: audio)
-Answers: sight, color, audio, touch, shape
+- Question: What is a way people can perceive your app? (example: audio)
+- Some possible answers: sight, color, audio, touch, shape
 
 ---
 
@@ -173,10 +187,10 @@ Inputs
 
 ^Notes:
 - The purpose of this one is for people using screen readers
-- This is especially for images and buttons without readable text.
+- This is especially for images and buttons without readable text
 - Otherwise the screen reader would say something like "Unlabeled button"
 - The user might not _perceive_ what the button is supposed to do in that case!
-- One exception is if the image doesn't need to be perceived to operate your app, like a decoration. In that case you should set it such that the screen reader knows it can skip it.
+- One exception is if the image doesn't need to be perceived to operate your app, like a decoration. In that case you should set it such that the screen reader knows it can skip it
 
 ---
 
@@ -186,7 +200,6 @@ Audio, video, and auto advance
 
 - _Provide alternatives, or_
 - _Make them optional_
-
 
 ^Notes:
 - Not everyone can watch videos or listen to audio
@@ -210,9 +223,8 @@ Also
 ^Notes:
 - This is for a variety of reasons
 - The movement of a video could cause nausea for some
-- It could cause others anxiety if they feel they missed something and can't go back
+- It could cause others anxiety if they feel they missed something and can't go back, or if they feel there's limited time to absorb some bit of information
 - People with motor or cognitive disabilities might need more time
-- It can also be anxiety inducing if there's limited time to absorb some bit of information
 - Finally, motion and animation could be distracting for some about detract from what you're trying to communicate.
 
 ---
@@ -222,12 +234,13 @@ Also
 - _Arrange the items on the screen in an order that makes sense_
 - _Group items together_
 
-![right fit](images/grouping.png)
+![screenshot of the play store with a title, subtitle, and action grouped right fit](images/grouping.png)
 
 ^Notes:
 - Most screen readers will traverse the screen top/start to bottom/end.
 - This also happens to be the way most humans consume content
 - You also want to group things together that should be read at the same time, such as a label and value
+- This not only helps people who use screen readers, but also if you what to build your app for Chromebook, Mac OS, or TV
 
 ---
 
@@ -241,7 +254,6 @@ Don't rely on only a visual or audio cue to convey information
 - If you're trying to communicate something to your user, don't rely on only these things because they might not be perceivable
 - An example might be when an error pops up on the screen. Does someone who's using a screen reader know that there's a new error?
 
-
 ---
 
 # Orientation
@@ -253,6 +265,7 @@ Allow both portrait and landscape
 ^Notes:
 - There are some exceptions, but support both where you can
 - Imaging having low mobility and having your screen on a mount on your wheelchair. It's not easy, or in some cases possible, to change the orientation of the device in order to use the app.
+- This is also helpful for others who might feel more comfortable using their phone in a specific orientation, such as when using it with one hand
 
 ---
 
@@ -261,7 +274,6 @@ Allow both portrait and landscape
 Color contrast
 
 - _Make sure you have adequate color contrast on words and buttons_
-
 
 ^Notes:
 - Any text that needs to be distinguishable needs to have a contrast of 7:1 for most text and 4.5:1 for large text
@@ -293,8 +305,7 @@ Conveying information
 
 - _Your app should still be usable with large sizes_
 
-
-![right fit](images/large-display.png)
+![screenshot of play store with display and font size very large right fit](images/large-display.png)
 
 ^Notes:
 - If someone has the font size bumped way up, you should still be able to use your app like normal
@@ -303,17 +314,17 @@ Conveying information
 
 ---
 
-![right fit](images/large-display.png)
-![left fit](images/compare.png)
+![screenshot of play store with display and font size very large right fit](images/large-display.png)
+![screenshot of play store with display and font default size left fit](images/compare.png)
 
 ^Notes:
-- As a side by side
+- As a side by side of large size vs default
 
 ---
 
 ## Operable
 
-###**_"User interface components and navigation must be operable."_**
+### **_"User interface components and navigation must be operable."_**
 
 ^Notes:
 - Can you navigate and perform actions with a keyboard or talkback
@@ -321,12 +332,12 @@ Conveying information
 
 ---
 
-# Quiz time!
+# Question time!
 
 ^Notes:
 - There are lots of correct answers to this one and it would only let me put in 5. You all have great answers
 Question: What is a way people can operate your app (example: touch screen)
-Answers: touch screen, gestures, audio, switch
+Some possible answers: touch screen, gestures, audio, switch
 
 ---
 
@@ -343,6 +354,7 @@ Answers: touch screen, gestures, audio, switch
 - Are things grouped in a way that makes sense? Is something repetitive?
 - And if the user reaches a button on the screen, is it clear what action it performs
 - More than just for screen reader. It can cause anxiety for your user if they don't know what will happen when they press a button.
+- Finally, this is another case that would make it possible to build your app for desktop or TV
 
 ---
 
@@ -381,20 +393,20 @@ _And you should be able to back out of single touch ones, too_
 
 ^Notes:
 - Have you ever visited a website, or even an app, on your phone and struggled to click on a link or button that was just too small?
-- The recommended size for Android is 48dpx48dp for anything clickable or intractable
+- The recommended size for Android is 48x48 for anything clickable or intractable
 - Also makes the actions in your app more clear
 
 ---
 
 ## Understandable
 
-###**_"Information and the operation of user interface must be understandable."_**
+### **_"Information and the operation of user interface must be understandable."_**
 
 ^Notes:
 - Not only can your content be perceived, but can it be understood
 - Includes things like limiting abbreviations and idioms
-- Is it clear why something error?
-- I understand all those words separately
+- Is it clear why something errored?
+- Is everything communicated effectively
 
 ---
 
@@ -405,7 +417,7 @@ _And you should be able to back out of single touch ones, too_
 - _Abbreviations_
 
 ^Notes:
-- Internationalizing and localizing, which can be a whole talk in itself, your app is part of this, but not the only way to make your app more understandable.
+- Internationalizing and localizing, which can be a whole talk in itself, is part of this, but not the only way to make your app more understandable.
 - You can also avoid hard to read words and idioms which are usually culturally specific.
 - Avoiding long blocks of text improve the experience for everyone (who actually reads it, anyway) and makes for a better experience for users with autism. You want your content to be easily digestible.
 - How many times have you run into an abbreviation you don't know and felt old or awkward because you had to look it up? Don't do that to your users!
@@ -428,12 +440,11 @@ _And you should be able to back out of single touch ones, too_
 - Finally, you don't want the context of where you are in the app to change unless an action is performed to cause that change, such as pressing a button. This brings down confusion of "Where am I and how did I get here?"
 - A mini version of this would be if you click into an in put field and the hint or label goes away. What if the user gets pulled away and when they come back it's unclear to them what they're supposed to type in?
 
-
 ---
 
 ## Robust
 
-###**_"Content must be robust enough that it can be interpreted by by a wide variety of user agents, including assistive technologies."_**
+### **_"Content must be robust enough that it can be interpreted by by a wide variety of user agents, including assistive technologies."_**
 
 ^Notes:
 - If you're using native components this is taken care of for you.
@@ -451,8 +462,9 @@ _And you should be able to back out of single touch ones, too_
 - Build accessible apps for the caring world you want to live in
 - Thanks for listening!
 - I'm here for questions as long as the video call is open, and available online after that
-- You can find me on twitter @TTGonda. I'm also on linkedIn if that's more your thing.
+- You can find me on Twitter @TTGonda. I'm also on LinkedIn if that's more your thing.
 - These slides and all my resources can be found on my website victoriagonda.com
+- I'll also post them in the chat
 
 ---
 
