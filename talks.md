@@ -54,6 +54,7 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 ## Podcast and Vlog appearances
 
+-   [Friends That Code ft. Victoria Gonda](https://anchor.fm/friendsthatcode/episodes/03---Friends-That-Code-ft--Victoria-Gonda-ehdq9m)
 -   [RayWenderlich.com Podcast: TDD for Android with Victoria Gonda](https://www.raywenderlich.com/10360944-tdd-for-android-with-victoria-gonda-podcast-s10-e06)
 -   [RayWenderlich.com Podcast: Google I/O Keynote Reactions](https://youtu.be/CMjxBGBDkt8)
 -   [Android Dialogs](https://youtu.be/E_h-6N77qr8)
