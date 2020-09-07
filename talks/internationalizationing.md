@@ -8,7 +8,7 @@
 
 - [Codemotion Madrid 2020](https://www.codemotion.com/) - _Submitted_
 - [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Accepted_
-- [Øredev 2020](https://oredev.org/) - _Submitted_
+- [Øredev 2020](https://oredev.org/) - _Cancelled_
 
 ---
 
