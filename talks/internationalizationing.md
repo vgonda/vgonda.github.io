@@ -10,6 +10,10 @@
 - [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Accepted_
 - [Øredev 2020](https://oredev.org/) - _Cancelled_
 
+## Resources
+
+- [Nathan Fennel - Internationalization for English](https://youtu.be/oCOkBavwQ6I)
+
 ---
 
 If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!
