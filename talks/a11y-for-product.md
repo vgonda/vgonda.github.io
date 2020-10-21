@@ -9,6 +9,7 @@
 -   [RW Talks](https://www.raywenderlich.com/10350458-introducing-rw-talks-first-talk-tomorrow) - _Invited_
 -   [Kotlin Mumbai](https://www.meetup.com/Kotlin-Mumbai/events/271818854/) - _Invited_
 -   [Android Summit](https://androidsummit.org/) - _Accepted_
+-   Midwest DevFest 2020 - _Submitted_
 
 ## Resources
 
