@@ -12,7 +12,7 @@
 
 ## Resources
 
-- **Slides**: [Markdown with notes](internationalizationing/slides.md) & [PDF](internationalizationing/slides.pdf)
+- **Slides**: [Markdown with notes](internationalizationing/slides.md), [Speakerdeck](https://speakerdeck.com/vgonda/internationalization-ing), and [PDF](internationalizationing/slides.pdf)
 - ["Wait, it does ??tahW: How supporting Right-to-Left can expose your bad UX" by Moriel Schottlender](https://youtu.be/xpumLsaAWGw)
 - [Nathan Fennel - Internationalization for English](https://youtu.be/oCOkBavwQ6I)
 - [react-localization](https://www.npmjs.com/package/react-localization)
