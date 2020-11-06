@@ -51,13 +51,20 @@ footer: @TTGonda | victoriagonda.com
 ![](images/pet04.jpg)
 
 ## Makes the product accessible to more people
+
 ## Makes it more comfortable for others
+
 ## Makes a higher quality app
 
 ^Notes
 - More intention
 - Think about semantics
 - RTL and longer text can highlight bad UI
+
+## Saves time later
+
+^Notes
+- If you set your app up for i18n ahead of time, it's after to add it later
 
 # **Localization**
 
@@ -68,6 +75,7 @@ footer: @TTGonda | victoriagonda.com
 -   Often the most obvious part of i18n
 -   Requires each of your user facing strings are referenced from a string resources file
 -   Then there are alternates for each of these strings for each language you support
+-   NO raw user facing strings in your code
 
 # Android
 
@@ -152,6 +160,7 @@ let strings = new LocalizedStrings({
 -   Translated text is some languages can be much longer than the language you're testing in
 -   By not having flexible text view sizes, text can be cut off
 -   Both length and new lines
+-   Also keep in mind that some languages have words that can get longer when truncated
 -   By making these flexible, you also better support text scaling for accessibility
 
 # Localization with an API
@@ -173,6 +182,9 @@ let strings = new LocalizedStrings({
 
 `"TITLE".toLowerCase()` -> "tıtle" in Turkish
 
+^Notes
+- Some languages don't user upper or lower case letters
+
 # **Abbreviations and Formats**
 
 ![](images/pet06.jpg)
@@ -189,6 +201,7 @@ let strings = new LocalizedStrings({
 ^Notes
 - Date
 - Time
+- Calendars
 - Start of week
 - Addresses
 - Names
@@ -235,7 +248,7 @@ let strings = new LocalizedStrings({
 
 # Try it out
 
--   Chrome: chrome://flags/#force-ui-direction
+-   Chrome: [chrome://flags/#force-ui-direction](chrome://flags/#force-ui-direction)
 -   Android: Developer settings
 
 ![inline Force RTL settings](images/rtl_settings.png)
@@ -269,6 +282,7 @@ let strings = new LocalizedStrings({
 
 -   Change language in browser or on device
 -   Try RTL
+-   Run UI tests in other locales
 -   Ask someone from another part of the world or who speaks another language to try your app
 
 ^Notes
