@@ -10,7 +10,7 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 <details><summary>Wake Your Brain Up with Test-Driven Development</summary>An interactive, online presentation about Test-Driven Development. I'll share trivia questions on the topic followed by an explanation of the answers. Test-Driven Development (TDD) is a software development process where you write failing tests before writing the code to make it pass. If it's not something you're familiar with, it can be hard to learn how to get started with TDD. We’ll go over the basics of testing and TDD, how you can apply it at varying levels of your architecture, and what steps to take if you’re working with legacy code. <a href="talks/wake-up-tdd.html">More</a></details>
 
-<details><summary>Internationalization-ing (Lightning talk)</summary>We have users and potential users all over the globe. How can we make our apps accessible and comfortable for those in any local? This short talk goes over the basics of what internationalization is and what you need to consider when working towards it. <a href="talks/i18n.html">More</a></details>
+<details><summary>Internationalization-ing</summary>We have users and potential users all over the globe. How can we make our apps accessible and comfortable for those in any local? This short talk goes over the basics of what internationalization is and what you need to consider when working towards it. <a href="talks/internationalizationing.html">More</a></details>
 
 <details><summary>Accessibility on Android (Lightning talk)</summary>In this talk, we learn about some of the basics of accessibility on Android, and how we can improve the Buffer app. <a href="talks/a11y.html">More</a></details>
 
