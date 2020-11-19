@@ -8,8 +8,9 @@
 
 -   [RW Talks](https://www.raywenderlich.com/10350458-introducing-rw-talks-first-talk-tomorrow) - _Invited_
 -   [Kotlin Mumbai](https://www.meetup.com/Kotlin-Mumbai/events/271818854/) - _Invited_
--   [Android Summit](https://androidsummit.org/) - _Accepted_
--   Midwest DevFest 2020 - _Submitted_
+-   [Android Summit 2020](https://androidsummit.org/) - _Accepted_
+-   [Midwest DevFest 2020](https://gdg.community.dev/events/details/google-gdg-columbia-mo-presents-devfest-midwest-2020/#/) - _Accepted_
+-   Women Who Code Mobile - _Volunteered_
 
 ## Resources
 
@@ -28,6 +29,7 @@
 ## Recordings
 - [RW Talks](https://www.raywenderlich.com/10528194-increase-your-product-quality-through-accessibility)
 - [Kotlin Mumbai](https://youtu.be/5OW8x9wGfzk)
+- [Android Summit 2020](https://youtu.be/cM_nSK_774M)
 
 ---
 
