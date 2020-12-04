@@ -9,6 +9,7 @@
 - [Codemotion Madrid 2020](https://www.codemotion.com/) - _Declined_
 - [Scenic City Summit 2020](https://sceniccitysummit.com/) - _Accepted_
 - [Øredev 2020](https://oredev.org/) - _Cancelled_
+- [Midwest DevFest 2020](https://gdg.community.dev/events/details/google-gdg-columbia-mo-presents-devfest-midwest-2020/#/) - _Accepted_
 
 ## Resources
 
