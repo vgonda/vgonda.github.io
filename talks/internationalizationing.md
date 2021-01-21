@@ -21,6 +21,10 @@
 - [i18n specifications](https://www.w3.org/International/techniques/developing-specs)
 - [i18n validator](http://validator.w3.org/i18n-checker/)
 
+## Recordings
+
+- [Midwest DevFest 2020](https://youtu.be/x60VcYtKVdk)
+
 ---
 
 If you like my work, consider [buying me a coffee ☕](https://www.buymeacoffee.com/96JjLEW)!
