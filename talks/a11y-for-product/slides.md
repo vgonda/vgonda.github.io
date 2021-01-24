@@ -489,6 +489,16 @@ _And you should be able to back out of single touch ones, too_
 
 ---
 
+!["Android accessibility by tutorials" left fit](images/acca.png)
+
+# Android Accessibility by Tutorials
+
+Read on:
+
+[www.raywenderlich.com/books/](https://www.raywenderlich.com/books/android-accessibility-by-tutorials/v1.0)
+
+---
+
 ## Thank you
 ### **_Victoria Gonda_**
 #### Resources: VictoriaGonda.com/talks

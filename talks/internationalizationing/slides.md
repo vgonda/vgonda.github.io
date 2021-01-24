@@ -6,6 +6,7 @@ footer: @TTGonda | victoriagonda.com
 ![](images/pet02.jpg)
 
 ^Notes
+- Thanks orgs and sponsors
 - Software eng in Chicago
 - Mostly Android
 - Author of ATDD (and soon a11y)
