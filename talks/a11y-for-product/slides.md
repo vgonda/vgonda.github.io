@@ -93,7 +93,6 @@ Footer: @TTGonda - Menti.com 60 95 09 4
 ^Notes:
 - Because it's the right thing to do.
 - We want to be an inclusive society that takes care of our neighbors
-- Imagine being under shelter-in-place and not being able to order food because the app isn't assessable for you
 
 ---
 
@@ -102,8 +101,8 @@ Footer: @TTGonda - Menti.com 60 95 09 4
 
 ^Notes:
 - Add your thoughts to our word cloud.
-- Question: Who can test for accessibility improvements?
-- Answer: Anyone who is willing to
+- Question: How can you test for accessibility improvements?
+- Answer: On the following slides
 
 ---
 
@@ -152,7 +151,7 @@ Footer: @TTGonda - Menti.com 60 95 09 4
 ^Notes:
 - According to Web Content Accessibility Guidelines (WCAG) 2.1
 - We don't have time to go over EVERYTHING, but will hit some of the things you're most likely to run into
-- Thing of it as a sample platter
+- Think of it as a sample platter
 - The goal is that when you're making a product decision you can think back and remember "I think there was an accessibility argument for that. Let me remind myself before deciding"
 - WCAG uses 4 categories to organize the guidelines
 - We'll describe what these dimensions are, then dig a little deeper into how you can support them
@@ -346,7 +345,7 @@ Conveying information
 ---
 
 ## Question time!
-### _What is a way people can operate your app (example: touch screen)_
+### _What is a way people can operate your app?_
 
 
 ^Notes:
