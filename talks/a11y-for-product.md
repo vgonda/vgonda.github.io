@@ -31,6 +31,7 @@
 - [RW Talks](https://www.raywenderlich.com/10528194-increase-your-product-quality-through-accessibility)
 - [Kotlin Mumbai](https://youtu.be/5OW8x9wGfzk)
 - [Android Summit 2020](https://youtu.be/cM_nSK_774M)
+- [Women Who Code Mobile](https://youtu.be/meEXCI-UEZI)
 
 ---
 
