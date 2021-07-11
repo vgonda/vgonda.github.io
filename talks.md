@@ -1,6 +1,6 @@
 # Talks
 
-[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/) ❖ [Twitter](https://twitter.com/TTGonda)
 
 ---
 Speaking at conferences has been an enjoyable way to connect with the community. Some of my favorite topics to talk about are testing, accessibility, and Android. Learn more about the talks I've given, watch recordings, and view resources.

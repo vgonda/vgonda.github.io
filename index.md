@@ -1,4 +1,4 @@
-[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [Newsletter](https://tinyletter.com/vgonda) ❖ [Twitter](https://twitter.com/TTGonda)
+[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/) ❖ [Twitter](https://twitter.com/TTGonda)
 
 I love the work I do as an Android Developer. I enjoy learning about new things, and applying them to my work.
 
