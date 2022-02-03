@@ -10,7 +10,7 @@
 -   [Kotlin Mumbai](https://www.meetup.com/Kotlin-Mumbai/events/271818854/) - _Invited_
 -   [Android Summit 2020](https://androidsummit.org/) - _Accepted_
 -   [Midwest DevFest 2020](https://gdg.community.dev/events/details/google-gdg-columbia-mo-presents-devfest-midwest-2020/#/) - _Accepted_
--   [Women Who Code Mobile](https://us02web.zoom.us/webinar/register/WN_uhEezzewRH-y5VOG_WlO0w) - _Volunteered_
+-   [Women Who Code Mobile](https://youtu.be/meEXCI-UEZI) - _Volunteered_
 
 ## Resources
 

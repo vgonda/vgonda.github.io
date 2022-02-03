@@ -4,6 +4,11 @@
 
 ---
 
+## [Kotlin-Multiplatform Shared Test Resources](https://developer.squareup.com/blog/kotlin-multiplatform-shared-test-resources/)
+A usual test strategy is to have test fixture files, be it JSON, binary, or plain text files, to consume in tests. You may use these files for test input, test verification, or both. Using this strategy with Kotlin Multiplatform (KMP), you can ensure that each platform is behaving as intended.
+
+_developer.squareup.com - Aug 24, 2021_
+
 ## [My Journey to Now](blogs/2021/my-journey-to-now.md)
 My professional journey to where I am now has been full of support and exciting experiences.
 

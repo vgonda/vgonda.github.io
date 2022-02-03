@@ -54,6 +54,8 @@ Speaking at conferences has been an enjoyable way to connect with the community.
 
 ## Podcast and Vlog appearances
 
+-   [The Evincible Series: Victoria Gonda and Rob Whitaker](https://youtu.be/I0i4goDCKFw)
+-   [RayWenderlich.com: Google I/O First Impressions Livecast](https://www.raywenderlich.com/23841347-google-i-o-first-impressions-livecast)
 -   [Friends That Code ft. Victoria Gonda](https://anchor.fm/friendsthatcode/episodes/03---Friends-That-Code-ft--Victoria-Gonda-ehdq9m)
 -   [RayWenderlich.com Podcast: TDD for Android with Victoria Gonda](https://www.raywenderlich.com/10360944-tdd-for-android-with-victoria-gonda-podcast-s10-e06)
 -   [RayWenderlich.com Podcast: Google I/O Keynote Reactions](https://youtu.be/CMjxBGBDkt8)
