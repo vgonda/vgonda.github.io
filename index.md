@@ -4,7 +4,7 @@ I love the work I do as an Android Developer. I enjoy learning about new things,
 
 You can often find me at conferences exchanging information with others as a [speaker](talks.md) 🎤. Come say hello if you spot me at one!
 
-In addition to speaking at conferences, I also write for [Ray Wenderlich](https://www.raywenderlich.com/u/vgonda) ✏️ in my spare time. I'm a part of their Resident Author team, helping to educate people in Android and Kotlin. As part of my work there, I author's the book _[Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials)_ and co-authored _[Android Test-Driven Development by Tutorials](https://www.raywenderlich.com/books/android-test-driven-development-by-tutorials)_.
+In addition to speaking at conferences, I also write for [Ray Wenderlich](https://www.raywenderlich.com/u/vgonda) ✏️ in my spare time. I'm a part of their Resident Author team, helping to educate people in Android and Kotlin. As part of my work there, I authored the book _[Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials)_ and co-authored _[Android Test-Driven Development by Tutorials](https://www.raywenderlich.com/books/android-test-driven-development-by-tutorials)_.
 
 While studying at [Hope College](https://hope.edu/), I also started getting involved in dance technology and dance production 🎭. I had a couple projects that worked together with a dancer and an Xbox Kinect, and did a significant amount of lighting design. Ask me about them, I love talking about it!
 
