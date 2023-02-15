@@ -1,14 +1,13 @@
-[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/) ❖ [Twitter](https://twitter.com/TTGonda)
+[Blogs](blogs.md) ❖ [Books](books.md) ❖ [Talks](talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/)
 
 I love the work I do as an Android Developer. I enjoy learning about new things, and applying them to my work.
 
-You can often find me at conferences exchanging information with others as a [speaker](talks.md) 🎤. Come say hello if you spot me at one!
+In my work as an engineer, I'm an accessibility advocate, encouraging accessible, inclusive practices at my company and in the design system I help build and maintain. I authored the book _[Android Accessibility by Tutorials]([https://www.raywenderlich.com/books/android-accessibility-by-tutorials](https://www.kodeco.com/books/android-accessibility-by-tutorials))_ and have [spoken](talks.md) around the world on the topic.
 
-In addition to speaking at conferences, I also write for [Ray Wenderlich](https://www.raywenderlich.com/u/vgonda) ✏️ in my spare time. I'm a part of their Resident Author team, helping to educate people in Android and Kotlin. As part of my work there, I authored the book _[Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials)_ and co-authored _[Android Test-Driven Development by Tutorials](https://www.raywenderlich.com/books/android-test-driven-development-by-tutorials)_.
 
 While studying at [Hope College](https://hope.edu/), I also started getting involved in dance technology and dance production 🎭. I had a couple projects that worked together with a dancer and an Xbox Kinect, and did a significant amount of lighting design. Ask me about them, I love talking about it!
 
-When I’m not out doing these things, you can find me in my home base in Michigan with my husband, Tyler. In my spare time, I enjoy playing board games with friends, or curled up at home with a good book, my cat, [Peter Pan](https://www.instagram.com/p/BgoGqmRlGSk/) 😻, and hedgehog, [Khoshekh](https://www.instagram.com/p/Bge6vC0h1Cx/) 🦔.
+When I’m not out doing these things, you can find me in my home base in Michigan with my husband, Tyler. In my spare time, I enjoy playing [board games](https://www.instagram.com/p/BeLVaNBlLlz/) with friends, [climbing](https://www.instagram.com/p/Ck4SpkQurf0/), or curled up at home with a good book and [my pets](https://www.instagram.com/p/CkZqgVyOeQP/) 🐈 🦔.
 
 ---
 
