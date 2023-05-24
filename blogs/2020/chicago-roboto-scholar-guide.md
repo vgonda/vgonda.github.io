@@ -1,4 +1,4 @@
-[Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/) ❖ [Twitter](https://twitter.com/TTGonda)
+[Blogs](../../blogs.md) ❖ [Books](../../books.md) ❖ [Talks](../../talks.md) ❖ [LinkedIn](https://www.linkedin.com/in/victoriagonda/)
 
 ---
 
@@ -34,7 +34,7 @@ When it comes to the day of the event and the days leading up to it, we want to 
 
 ## How You Can Help
 
-First, you can apply. If there are any questions about any of this, you can find me [on Twitter](https://twitter.com/TTGonda) or reach out on the Chicago Roboto [contact form](https://chicagoroboto.com/contact-us/).
+First, you can apply. If there are any questions about any of this, you can  reach out on the Chicago Roboto [contact form](https://chicagoroboto.com/contact-us/).
 
 There are lots of other things you can do to help as well:
 
