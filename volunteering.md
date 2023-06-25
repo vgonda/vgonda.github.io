@@ -13,6 +13,7 @@ One of the organizations close to my heart is Still I Run. Still I Run is a comm
 Their mission is to create a safe and inclusive space where individuals can find support, encouragement, and inspiration to pursue an active lifestyle, all while raising awareness about mental health. Through their events, programs, and online community, Still I Run aims to empower individuals living with mental illness to embrace their strength and resilience.
 
 **My Role**
+
 As a volunteer with Still I Run, I have the opportunity to contribute to their mission and make a difference in the lives of individuals struggling with mental health challenges. I actively participate in various events, where I engage with people, share information about the organization, and promote their cause. Selling merchandise allows me to not only raise funds for the organization but also spark conversations about mental health and challenge the societal stigma associated with it.
 
 Additionally, I assist with event set-up and tear-down, ensuring that everything runs smoothly and creates a welcoming atmosphere for participants. By volunteering my time and effort, I feel a sense of fulfillment knowing that I am helping to create a supportive community where individuals can find solace, inspiration, and strength through running and mental health advocacy.
@@ -27,6 +28,7 @@ Michele's Rescue is a remarkable 501(c)(3) non-profit animal rescue organization
 The organization's primary goal is to rescue, rehabilitate, and adopt out animals, ensuring they receive the care, love, and attention they deserve. Michele's Rescue operates on the belief that every animal's life is valuable and that they deserve a chance to experience a safe and happy life.
 
 **My Role**
+
 Within Michele's Rescue, I actively contribute as a foster caregiver for cats. Fostering involves providing a nurturing environment for the animals, tending to their medical needs, ensuring their physical well-being, and offering them the love and care they need to thrive. It is a fulfilling experience to witness their transformation and see them find their forever homes.
 
 In addition to fostering, I also take an active role in leading and volunteering at fundraisers and adoption events. These activities play a crucial role in raising funds for the organization, spreading awareness about their mission, and facilitating successful adoptions. By engaging with the community, I have the opportunity to connect potential adopters with the animals and advocate for responsible pet ownership.
