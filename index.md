@@ -2,7 +2,7 @@
 
 I love the work I do as an Android Developer. I enjoy learning about new things, and applying them to my work.
 
-In my work as an engineer, I'm an accessibility advocate, encouraging accessible, inclusive practices at my company and in the design system I help build and maintain. I authored the book _[Android Accessibility by Tutorials]([https://www.raywenderlich.com/books/android-accessibility-by-tutorials](https://www.kodeco.com/books/android-accessibility-by-tutorials))_ and have [spoken](talks.md) around the world on the topic.
+In my work as an engineer, I'm an accessibility advocate, encouraging accessible, inclusive practices at my company and in the design system I help build and maintain. I authored the book _[Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials)_ and have [spoken](talks.md) around the world on the topic.
 
 
 While studying at [Hope College](https://hope.edu/), I also started getting involved in dance technology and dance production 🎭. I had a couple projects that worked together with a dancer and an Xbox Kinect, and did a significant amount of lighting design. Ask me about them, I love talking about it!
