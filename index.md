@@ -7,7 +7,7 @@ In my work as an engineer, I'm an accessibility advocate, encouraging accessible
 
 While studying at [Hope College](https://hope.edu/), I also started getting involved in dance technology and dance production 🎭. I had a couple projects that worked together with a dancer and an Xbox Kinect, and did a significant amount of lighting design. Ask me about them, I love talking about it!
 
-When I’m not out doing these things, you can find me in my home base in Michigan with my husband, Tyler. In my spare time, I enjoy playing [board games](https://www.instagram.com/p/BeLVaNBlLlz/) with friends, [climbing](https://www.instagram.com/p/Ck4SpkQurf0/), or curled up at home with a good book and [my pets](https://www.instagram.com/p/CkZqgVyOeQP/) 🐈 🦔.
+When I’m not out doing these things, you can find me in my home base in Michigan. In my spare time, I enjoy playing [board games](https://www.instagram.com/p/BeLVaNBlLlz/) with friends, [climbing](https://www.instagram.com/p/Ck4SpkQurf0/), or curled up at home with a good book and [my pets](https://www.instagram.com/p/CkZqgVyOeQP/) 🐈 🦔.
 
 ---
 
